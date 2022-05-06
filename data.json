@@ -1,212 +1,90 @@
-{
-  "work": [
-    {
-      "id": 1,
-      "ponderation": 3,
-      "valeurReponseA": 0,
-      "valeurReponseB": 1,
-      "choixPatient": "A",
-      "valeurChoix": 0
-    },
-    {
-      "id": 2,
-      "ponderation": 6,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 3,
-      "ponderation": 4,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 4,
-      "ponderation": 3,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "B",
-      "valeurChoix": 0
-    },
-    {
-      "id": 5,
-      "ponderation": 8,
-      "valeurReponseA": 0,
-      "valeurReponseB": 1,
-      "choixPatient": "B",
-      "valeurChoix": 1
-    }
-  ],
-  "finance": [
-    {
-      "id": 1,
-      "ponderation": 2,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 2,
-      "ponderation": 9,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "B",
-      "valeurChoix": 0
-    },
-    {
-      "id": 3,
-      "ponderation": 6,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 4,
-      "ponderation": 3,
-      "valeurReponseA": 0,
-      "valeurReponseB": 1,
-      "choixPatient": "B",
-      "valeurChoix": 1
-    },
-    {
-      "id": 5,
-      "ponderation": 1,
-      "valeurReponseA": 0,
-      "valeurReponseB": 1,
-      "choixPatient": "B",
-      "valeurChoix": 1
-    }
-  ],
-  "social": [
-    {
-      "id": 1,
-      "ponderation": 1,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 2,
-      "ponderation": 4,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 3,
-      "ponderation": 3,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 4,
-      "ponderation": 3,
-      "valeurReponseA": 0,
-      "valeurReponseB": 1,
-      "choixPatient": "A",
-      "valeurChoix": 0
-    },
-    {
-      "id": 5,
-      "ponderation": 7,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "B",
-      "valeurChoix": 0
-    }
-  ],
-  "leisure": [
-    {
-      "id": 1,
-      "ponderation": 3,
-      "valeurReponseA": 0,
-      "valeurReponseB": 1,
-      "choixPatient": "B",
-      "valeurChoix": 1
-    },
-    {
-      "id": 2,
-      "ponderation": 2,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 3,
-      "ponderation": 1,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 4,
-      "ponderation": 6,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 5,
-      "ponderation": 7,
-      "valeurReponseA": 0,
-      "valeurReponseB": 1,
-      "choixPatient": "B",
-      "valeurChoix": 1
-    }
-  ],
-  "health": [
-    {
-      "id": 1,
-      "ponderation": 2,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 2,
-      "ponderation": 2,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "A",
-      "valeurChoix": 1
-    },
-    {
-      "id": 3,
-      "ponderation": 8,
-      "valeurReponseA": 0,
-      "valeurReponseB": 1,
-      "choixPatient": "B",
-      "valeurChoix": 1
-    },
-    {
-      "id": 4,
-      "ponderation": 4,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "B",
-      "valeurChoix": 0
-    },
-    {
-      "id": 5,
-      "ponderation": 7,
-      "valeurReponseA": 1,
-      "valeurReponseB": 0,
-      "choixPatient": "B",
-      "valeurChoix": 0
-    }
-  ]
-}
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "role": "Front-end developer",
+    "type": "full-time",
+    "salary": "$100000",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Redux",
+      "Node.js",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Jane Doe",
+    "age": 28,
+    "city": "Paris",
+    "role": "Back-end developer",
+    "type": "part-time",
+    "salary": "$70000",
+    "skills": [
+      "Firebase",
+      "Git",
+      "Express.js",
+      "MongoDB",
+      "MySQL",
+      "AWS",
+      "Docker"
+    ]
+  },
+  {
+    "name": "John Smith",
+    "age": 35,
+    "city": "Berlin",
+    "role": "Full-stack developer",
+    "type": "full-time",
+    "salary": "$200000",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "React Native",
+      "Django",
+      "Kubernetes",
+      "GCP",
+      "DevOps",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Jane Smith",
+    "age": 32,
+    "city": "London",
+    "role": "Data Scientist",
+    "type": "part-time",
+    "salary": "$100000",
+    "skills": [
+      "Python",
+      "R",
+      "SQL",
+      "Machine Learning",
+      "Data Visualization",
+      "Data Analysis",
+      "TensorFlow",
+      "Numpy",
+      "Pandas"
+    ]
+  },
+  {
+    "name": "Edouard Leclerc",
+    "age": 24,
+    "city": "Paris",
+    "role": "Designer",
+    "type": "full-time",
+    "salary": "$80000",
+    "skills": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Figma",
+      "Sketch",
+      "Invision",
+      "UX/UI",
+      "CSS"
+    ]
+  }
+]
