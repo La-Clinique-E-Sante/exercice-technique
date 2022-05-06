@@ -1,7 +1,7 @@
 # Exercice technique
 
 Vous êtes chargé au sein de La Clinique E-Santé du développement d'un nouveau module. Tout ce dont vous aurez besoin pour commencer sera défini plus bas. Votre objectif est de réaliser ce module dans un délai respectable avec des livrables de qualité.
-Tout le code devra être écrit en JavaScript uniquement.
+Il devra être développé avec ReactJs.
 
 ## Fichiers
 
@@ -9,14 +9,15 @@ Les fichiers nécessaires à la réalisation de l'exercice sont présents dans l
 Il inclut un fichier json qui contient toutes les données et ce fichier README qui est la consigne de l'exercice.
 
 ## Objectifs
-- A l'aide du fichier data.json vous construirez un algorithme de scoring qui fera la moyenne pondérée des cinq catégories (travail, finance, vie sociale, loisir, santé).
-- Maintenant que vous avez les 5 scores vous devez présenter le résultat au patient sous la forme d'un graphique de votre choix (bar, donut, radar etc).
-- Aussi, vous devrez calculer le score global du patient en faisant la moyenne des résultats précédents.
-- Quand vous aurez terminé l'exercice veuillez uploader le code sur un repository GitHub public et nous partager le lien.
+
+- À l'aide du fichier data.json vous construirez une app qui liste les professionnels en affichant toutes les informations les concernant.
+- Maintenant que vous avez une liste des professionnels vous devez développer une barre de recherche qui nous permettra de filtrer les professionnels sur tous les champs disponibles (city, role, type, etc.).
+- Pour le style de l'app vous pouvez prendre comme inspiration l'image présente dans le repository même si nous n'attendons pas une copie de celui-ci, libérez votre créativité !
+- Gardez une approche composant en découpant votre projet avec des composants logiques, fonctionnels et réutilisables.
+- Quand vous aurez terminé l'exercice, veuillez uploader le code sur un repository GitHub public et nous partager le lien.
 
 ## A savoir
-Votre code devra être documenté, pas besoin de commenter chaque ligne de code mais seulement ce qui est nécessaire pour bien le comprendre et le maintenir.
 
-Vous êtes libre de choisir n'importe quelle librairie / technologie (chart.js, react-vis, sass etc.) pour réaliser cet exercice. Par contre vous devrez justifier votre choix (aisance, rapidité, légèreté etc).
-
-Pas besoin d'en faire plus que demandé, ici la qualité du code, sa clarté, sa documentation et son fonctionnement seront les seuls critères de notation. Qualité > Quantité.
+Votre code devra être documenté, pas besoin de commenter chaque ligne de code, mais seulement ce qui est nécessaire pour bien le comprendre et le maintenir.
+Pour réaliser cet exercice, vous devrez utiliser React.js uniquement sans librairies externes que ce soit en Javascript ou en CSS.
+La qualité du code, sa clarté, sa documentation, son fonctionnement et le rendu visuel seront les critères de notation.
