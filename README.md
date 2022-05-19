@@ -12,7 +12,7 @@ Il inclut un fichier json qui contient toutes les données et ce fichier README 
 
 - À l'aide du fichier data.json vous construirez une app qui liste les professionnels en affichant toutes les informations les concernant.
 - Maintenant que vous avez une liste des professionnels vous devez développer une barre de recherche qui nous permettra de filtrer les professionnels sur tous les champs disponibles (city, role, type, etc.).
-- Pour le style de l'app vous pouvez prendre comme inspiration l'image présente dans le repository même si nous n'attendons pas une copie de celui-ci, libérez votre créativité !
+- Pour le style de l'app vous devez reproduire la maquette suivante, soyez attentifs aux détails : https://www.figma.com/file/fCVv5uQjDggIUxUkxGwMCt/Recrutement---Int%C3%A9gration?node-id=0%3A1
 - Gardez une approche composant en découpant votre projet avec des composants logiques, fonctionnels et réutilisables.
 - Quand vous aurez terminé l'exercice, veuillez uploader le code sur un repository GitHub public et nous partager le lien.
 
